@@ -1,5 +1,5 @@
 ## IBM-Project-1695-1658409969
-#Emerging Methods for Early Detection of Forest Fires
+# Emerging Methods for Early Detection of Forest Fires
 
 TEAM MEMBERS :
 Raga Ranjini R - 212219040115
